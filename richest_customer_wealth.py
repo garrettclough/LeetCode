@@ -1,5 +1,3 @@
-import math
-
 customerAccounts = [[4,3,2], [3,2,10], [3,4,3]]
 
 # First Iteration #
